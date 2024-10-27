@@ -20,7 +20,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.yarn.run.dev.reactnativetutorial"
+      "package": "com.morqqulis.reactnativetutorial"
     },
     "web": {
       "bundler": "metro",
@@ -38,6 +38,6 @@
         "projectId": "79d13ef5-1abc-4bf1-9ec1-b02fa395065d"
       }
     },
-    "owner": "yarn.run.dev"
+    "owner": "morqqulis"
   }
 }

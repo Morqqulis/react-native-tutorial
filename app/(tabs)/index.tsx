@@ -95,7 +95,7 @@ export default function Home() {
 		   <GestureHandlerRootView style={styles.container}>
    			<View className={`view bg-gray-800`}>
    				<Text className={`text-5xl font-bold mb-5`}>Salam Bayram</Text>
-   				<Link className={`text-3xl text-blue-500 mb-5`} href={'/About'}>
+   				<Link className={`text-3xl text-blue-500 mb-5`} href={'/about'}>
    					Go to About Screen
    				</Link>
    
