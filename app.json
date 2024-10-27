@@ -10,7 +10,7 @@
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#25292e"
     },
     "ios": {
       "supportsTablet": true
@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "79d13ef5-1abc-4bf1-9ec1-b02fa395065d"
+      }
+    },
+    "owner": "yarn.run.dev"
   }
 }
